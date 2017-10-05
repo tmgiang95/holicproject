@@ -1,3 +1,3 @@
 <?php
-echo 'Giang dep trai'
+echo 'Trần minh giang'
 ?>
