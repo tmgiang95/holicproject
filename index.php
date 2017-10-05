@@ -1,3 +1,3 @@
 <?php
-echo 'Hello Giang'
+echo 'Hello Giang dep trai'
 ?>
