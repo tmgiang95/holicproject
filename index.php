@@ -1,3 +1,3 @@
 <?php
-echo 'Trần minh giang'
+echo 'Trần minh giang bd'
 ?>
